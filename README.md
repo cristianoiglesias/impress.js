@@ -1,46 +1,46 @@
 impress.js
 ============
 
-It's a presentation framework based on the power of CSS3 transforms and 
-transitions in modern browsers and inspired by the idea behind prezi.com.
+É uma estrutura de apresentação baseada no poder de transformações CSS3 e
+transições em navegadores modernos e inspirado pela ideia por trás prezi.com.
 
-**WARNING**
+**AVISO**
 
-impress.js may not help you if you have nothing interesting to say ;)
+impress.js não pode ajudá-lo se você não tem nada de interessante para dizer;)
 
 
-HOW TO USE IT
+COMO USAR
 ---------------
 
-[Use the source](http://github.com/bartaz/impress.js/blob/master/index.html), Luke ;)
+[Use a fonte](http://github.com/bartaz/impress.js/blob/master/index.html), Boa Sorte ;)
 
-If you have no idea what I mean by that, or you just clicked that link above and got 
-very confused by all these strange characters that got displayed on your screen,
-it's a sign, that impress.js is not for you.
+Se você não tem idéia do que quero dizer com isso, ou você acabou de clicar nesse link acima e esta
+muito confuso com todos esses personagens estranhos que foram exibidos na tela,
+é um sinal, que impress.js não é para você.
 
-Sorry.
+Desculpa.
 
-Fortunately there are some guys on GitHub that got quite excited with the idea of building
-editing tool for impress.js. Let's hope they will manage to do it.
+Felizmente, existem algumas caras no GitHub que ficaram bastante animados com a idéia de construir
+ferramentas de edição para impress.js. Vamos esperar que eles consigam fazê-lo.
 
 
 
-EXAMPLES AND OTHER LEARNING RESOURCES
+EXEMPLOS E OUTROS RECURSOS DE APRENDIZAGEM
 ---------------------------------------
 
-### Official demo
+### Oficial demo
 
 [impress.js demo](http://impress.github.io/impress.js/) by [@bartaz](http://twitter.com/bartaz)
 
-### Examples and demos
+### Exemplos e demos
 
-More examples and demos can be found on [Examples and demos wiki page](http://github.com/bartaz/impress.js/wiki/Examples-and-demos).
+Mais exemplos e demos podem ser encontradas no [Examples and demos wiki page](http://github.com/bartaz/impress.js/wiki/Examples-and-demos).
 
-Feel free to add your own example presentations (or websites) there.
+Sinta-se livre para adicionar suas próprias apresentações de exemplo (para websites).
 
-### Other tutorials and learning resources
+### Outros tutoriais e recursos de aprendizagem
 
-If you want to learn even more there is a [list of tutorials and other learning resources](https://github.com/bartaz/impress.js/wiki/impress.js-tutorials-and-other-learning-resources)
+Se você quer aprender ainda mais, há um [list of tutorials and other learning resources](https://github.com/bartaz/impress.js/wiki/impress.js-tutorials-and-other-learning-resources)
 on the wiki, too.
 
 There is also a book available about [Building impressive presentations with impress.js](http://www.packtpub.com/building-impressive-presentations-with-impressjs/book) by Rakhitha Nimesh Ratnayake.
